@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> حبيبتي قلبي يريدك في كل يوم
+> أنا سهران ولا أعرف النوم
+> عيناك ناري وفي بحرك أعوم
+> تعالي بقربي ننسى كل الهموم
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
